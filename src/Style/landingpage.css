@@ -1,0 +1,46 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/Background/The Starry Night.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/Background/JapanNight.jpg");
+    background-size: cover;
+}
+
+.action {
+    height: auto;
+    background: url("../assets/Background/hana.jpg");
+    background-size: cover;
+}
+
+.movieWrapper {}
+
+.movieImages {
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Poster {
+    height: 500px;
+}
