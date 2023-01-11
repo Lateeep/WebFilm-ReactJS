@@ -1,4 +1,4 @@
-import { Card, Col, Container, Row, Image } from "react-bootstrap"
+import { Card, Col, Container, Row, Image, Button } from "react-bootstrap"
 import diehardImage from "../assets/Action/Diehard.jpg"
 import headshotImage from "../assets/Action/Headshot.jpg"
 import madmaxImage from "../assets/Action/Mad Max.jpg"
@@ -27,6 +27,7 @@ const Action = () => {
                                 Action, Thriller
                             </Card.Text>
                             <Card.Text className="text-center">2h 12m</Card.Text>
+                            <Button a href="https://www.youtube.com/watch?v=jaJuwKCmJbY">Watch Trailer</Button>
                         </Card>
                     </Col>
                     <Col md={4} className="movieWrapper">
@@ -41,6 +42,7 @@ const Action = () => {
                                 Action, Drama, Thriller
                             </Card.Text>
                             <Card.Text className="text-center">1h 58m</Card.Text>
+                            <Button a href="https://www.youtube.com/watch?v=yXhoytk0Hfw">Watch Trailer</Button>
                         </Card>
                     </Col>
                     <Col md={4} className="movieWrapper">
@@ -55,6 +57,7 @@ const Action = () => {
                                 Action, Adventure, Sci-Fi
                             </Card.Text>
                             <Card.Text className="text-center">2h</Card.Text>
+                            <Button a href="https://www.youtube.com/watch?v=hEJnMQG9ev8">Watch Trailer</Button>
                         </Card>
                     </Col>
                     <Col md={4} className="movieWrapper">
@@ -69,6 +72,7 @@ const Action = () => {
                                 Action, Sci-Fi
                             </Card.Text>
                             <Card.Text className="text-center">2h 16m</Card.Text>
+                            <Button a href="https://www.youtube.com/watch?v=vKQi3bBA1y8">Watch Trailer</Button>
                         </Card>
                     </Col>
                     <Col md={4} className="movieWrapper">
@@ -83,6 +87,7 @@ const Action = () => {
                                 Action, Thriller
                             </Card.Text>
                             <Card.Text className="text-center">1h 34m</Card.Text>
+                            <Button a href="https://www.youtube.com/watch?v=eJU6S5KOsNI">Watch Trailer</Button>
                         </Card>
                     </Col>
                     <Col md={4} className="movieWrapper">
@@ -97,6 +102,7 @@ const Action = () => {
                                 Action, Adventure, Fantasy
                             </Card.Text>
                             <Card.Text className="text-center">1h 43m</Card.Text>
+                            <Button a href="https://www.youtube.com/watch?v=3od-kQMTZ9M">Watch Trailer</Button>
                         </Card>
                     </Col>
                 </Row>
