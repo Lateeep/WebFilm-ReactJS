@@ -30,6 +30,7 @@ const Action = () => {
                             <Button a href="https://www.youtube.com/watch?v=jaJuwKCmJbY">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -45,6 +46,7 @@ const Action = () => {
                             <Button a href="https://www.youtube.com/watch?v=yXhoytk0Hfw">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -60,6 +62,7 @@ const Action = () => {
                             <Button a href="https://www.youtube.com/watch?v=hEJnMQG9ev8">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -75,6 +78,7 @@ const Action = () => {
                             <Button a href="https://www.youtube.com/watch?v=vKQi3bBA1y8">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -90,6 +94,7 @@ const Action = () => {
                             <Button a href="https://www.youtube.com/watch?v=eJU6S5KOsNI">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
