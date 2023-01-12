@@ -23,13 +23,13 @@
 
 .trending {
     height: auto;
-    background: url("../assets/Background/JapanNight.jpg");
+    background: url("../assets/Background/hana.jpg");
     background-size: cover;
 }
 
 .action {
     height: auto;
-    background: url("../assets/Background/hana.jpg");
+    background: url("../assets/Background/JapanNight.jpg");
     background-size: cover;
 }
 
