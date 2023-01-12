@@ -29,6 +29,7 @@ const Trending = () => {
                             <Button a href="https://www.youtube.com/watch?v=d9MyW72ELq0">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -44,6 +45,7 @@ const Trending = () => {
                             <Button a href="https://www.youtube.com/watch?v=aSiDu3Ywi8E">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -59,6 +61,7 @@ const Trending = () => {
                             <Button a href="https://www.youtube.com/watch?v=BRb4U99OU80">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -74,6 +77,7 @@ const Trending = () => {
                             <Button a href="https://www.youtube.com/watch?v=-FmWuCgJmxo">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
@@ -89,6 +93,7 @@ const Trending = () => {
                             <Button a href="https://www.youtube.com/watch?v=m6Q7KnXpNOg">Watch Trailer</Button>
                         </Card>
                     </Col>
+
                     <Col md={4} className="movieWrapper">
                         <Card className="bg-dark text-light movieImages">
                             <Image
