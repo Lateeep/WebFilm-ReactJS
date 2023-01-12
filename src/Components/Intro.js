@@ -9,9 +9,6 @@ const intro = () => {
                     <Col>
                         <div className='title'>TEMPAT NONTON FILM</div>
                         <div className='title'>TANPA RIBET</div>
-                        <div className='introButton mt-4 text-center'>
-                            <Button variant='dark'>Lihat Film</Button>
-                        </div>
                     </Col>
                 </Row>
             </Container>
